@@ -16,7 +16,7 @@ El dataset, que consta de 31 columnes i 455 files, conté dades de dones sanes i
 * Dimensió fractal
 
 D'aquestes característiques, es recullen al dataset la mitjana (columnes acabades en \_mean), l'error estàndar (columnes acabades en \_se), i el pitjor valor, o el més gran (columnes acabades en \_worst). També es recull el diagnosi, amb un 0 si és benigne, i amb un 1 si és maligne. 
-[font](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+[(font)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 ## Arxius del repositori
 
